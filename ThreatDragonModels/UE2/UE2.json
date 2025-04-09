@@ -8,8 +8,18 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 1,
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "Neues CIA Diagramm",
+        "diagramType": "CIA",
+        "placeholder": "Neue CIA Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
     "reviewer": "silas",
     "threatTop": 0
   }
